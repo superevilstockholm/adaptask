@@ -9,7 +9,7 @@ import aiomysql
 
 from router import Router
 
-class AdapTask:
+class AdaptoTask:
     """Color codes for terminal"""
     colors = {
         'RESET': '\033[0m', # Default
@@ -67,11 +67,11 @@ class AdapTask:
             **kwargs
         )
 
-webapp = AdapTask()
+webapp = AdaptoTask()
 app = webapp.app
 
 if __name__ == '__main__':
-    AdapTask.run(
+    AdaptoTask.run(
         host="0.0.0.0",
         port=8000,
         reload=True,
