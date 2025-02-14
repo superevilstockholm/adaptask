@@ -1,8 +1,8 @@
-# AdapTask
+# AdaptoTask
 
 🧠 **"All In One Personalized Cognitive Productivity Dashboard"**
 
-AdapTask adalah sebuah dashboard productivity berbasis AI yang memahami pola aktivitas pengguna dan menyesuaikan diri secara otomatis.
+AdaptoTask adalah sebuah dashboard productivity berbasis AI yang memahami pola aktivitas pengguna dan menyesuaikan diri secara otomatis.
 
 ---
 
@@ -51,7 +51,7 @@ AdapTask adalah sebuah dashboard productivity berbasis AI yang memahami pola akt
 
 ---
 
-🚀 **AdapTask** bukan hanya aplikasi produktivitas, tetapi mitra pintar yang beradaptasi dengan gaya kerja unik setiap penggunanya.
+🚀 **AdaptoTask** bukan hanya aplikasi produktivitas, tetapi mitra pintar yang beradaptasi dengan gaya kerja unik setiap penggunanya.
 
 > "Don't just manage tasks, let your dashboard manage you intelligently."
 
